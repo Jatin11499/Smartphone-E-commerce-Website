@@ -1,0 +1,95 @@
+body{
+	font-family:arial;
+}
+
+#banner_image{
+	padding-top: 165px;
+	padding-bottom: 50px;
+	text-align: center;
+	color: #f8f8f8;
+	background: url(../images/intro-bg_1.jpg) no-repeat center center;
+	background-size: cover;
+	height:650px;
+}
+
+#label{
+	background-color: rgba(0,0,0,0.7);
+	max-width: 660px;
+	padding: 100px 0px;
+	color: white;
+}
+
+#l1{
+	font-size: 45px;
+	margin-bottom: -15px;
+	margin-top: -15px;
+	padding-bottom:5px;
+}
+
+a{
+	color:white;
+}
+
+footer{
+	padding-top: 15px;
+	padding-bottom: 5px;
+	background-color: #101010;
+	color:#9d9d9d;
+	bottom: 0;
+	width: 100%;
+}
+
+.card{
+	margin-top:98px;
+	margin-bottom:98px;
+}
+
+.sign{
+	margin-top:52px;
+	margin-bottom:52px;
+}
+
+.img-thumbnail{
+	padding:2px;
+}
+
+.buffer{
+	margin-top:10px;
+	margin-bottom:10px;
+}
+
+.contentt{
+	padding:20px;
+}
+
+.foot{
+	margin-top:50px;
+}
+
+.tbc{
+	margin-top:195px;
+	margin-bottom:195px;
+}
+
+.set{
+	margin-top:50px;
+	margin-bottom:240px;
+}
+
+.ty{
+	font-size:70px;
+}
+
+.sc{
+	margin-top:206px;
+	margin-bottom:206px;
+}
+
+.top_buffer{
+	margin-top:60px;
+	margin-bottom:20px;
+}
+
+.pad{
+	padding-top:20px;
+}
